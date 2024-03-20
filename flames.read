@@ -1,0 +1,3 @@
+This is flames game program with fun F-friends, L-love, A-Affection, M-marriage, E-Enemy, S-sister this is a fun game played in childhood days using pen and paper, here i am writing a program to play in seconds easily.
+OVERVIEW:
+Taking two name as name1 and name 2 , comparing these name and if they are equal cancel the same letter in name 1 and name2 and count the remaining letter using len function , and store the flames in a list and count the letter in flames list and cancel one by one until the list index is 0  
